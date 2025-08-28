@@ -13,6 +13,15 @@ const projects = [
     githubLink: "",
     liveLink: "",
   },
+  {
+    title: "weather App",
+    description:"",
+    src: "rock.jpg",
+    link:"/weather.png",
+    color: "#15fa5aff",
+    githubLink: "https://github.com/sibaramawsnew-sudo/weather-project-airaware",
+    liveLink: "https://sibaram-weather-project.netlify.app/",
+  },
   
   
 ];
